@@ -4,3 +4,5 @@ Today I installed JDK and make my environment ready. Then I wrote "Hello, World!
 
 ## Java Learning DAY2
 Yesterday I was busy in other things so I stopped my learning a day, it was not a big deal. Just now I started to learn what the 48 keywords are and how to use them. Unfortunately, when I wanted to put them in a folder, there were something wrong with it. Because I am using vscode but not the IDEA maybe, there are few guide to teach me how to code java by vscode. Later today I will try again. Now it is 1:19PM and I gotta sleep for a while.
+
+9:51PM, I am back. I quickly learn break, byte and case keyword, then realize language in java is so familiar with c++ that it is easy for me to learn these keywords. However today is Friday! Time to have a good leisure night. See u tomorrow if I got time.
